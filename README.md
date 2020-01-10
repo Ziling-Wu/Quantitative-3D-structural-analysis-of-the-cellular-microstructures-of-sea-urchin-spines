@@ -3,5 +3,3 @@ This repository will collect codes accompanying the publication: Quantitative 3D
 ![Image of sea urchin spine](https://github.com/zilingwu9607/Quantitative-3D-structural-analysis-of-the-cellular-microstructures-of-sea-urchin-spines/blob/master/Images/ilastik.0000.jpg)
 The main code is put in the folder 'Code' under this repository. By running the code step by step, we are able to analyze the cellular microstructure of open-cell foam.
 
-
-## Quantitative-3D-structural-analysis-of-the-cellular-microstructures
