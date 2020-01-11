@@ -3,5 +3,5 @@ This repository will collect codes accompanying the publication: Quantitative 3D
 ![Image of sea urchin spine](https://github.com/zilingwu9607/Quantitative-3D-structural-analysis-of-the-cellular-microstructures-of-sea-urchin-spines/blob/master/Images/ilastik.0000.jpg)
 The main code is put in the folder 'Code' under this repository. For the data, please download from this shared Google Drive folder 'https://drive.google.com/drive/folders/1aF0AjVVsmUzeQXLO4210gLvbiKOcbcx0?usp=sharing' and put under folder 'Code'.
 
-Firstly, run 'main_dataProcessing.m' and get the registered skeleton volume from binary image. Secondly, run 'main_dataAnalysis.m' for data analysis.By running the code step by step, we are able to analyze the cellular microstructure of open-cell foam.
+Firstly, run 'main_dataProcessing.m' and get the registered skeleton volume from binary image. Secondly, run 'main_dataAnalysis.m' for data analysis. By running the code step by step, we are able to analyze the cellular microstructure of open-cell foam.
 
